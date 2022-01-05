@@ -28,7 +28,7 @@ Suppresion des colonnes inutiles.
 ### NORMALIZATION:
 Division de la valeur maximale de chaque colonne pour faciliter.
 
-### GridSearchCV:
+### GRIDSEARCH:
 Modéle de prediction.
 
 ### SUBMISSION.
