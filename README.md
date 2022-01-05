@@ -4,19 +4,19 @@
 Choix de la dataset "Marketing_Compaign.csv" depuis Kaggle.
 
 ### IMPORTATION DES BIBLIOTHEQUES:
-Pandas
-Numpy
-sklearn.model_selection
-sklearn.neighbors
-sklearn.tree
-sklearn.svm
-sklearn.linear_model
-sklearn.naive_bayes
-sklearn.metrics
-sklearn.ensemble
-sklearn.model_selection
-sklearn.preprocessing
-Joblib
+Pandas, 
+Numpy,
+sklearn.model_selection,
+sklearn.neighbors,
+sklearn.tree,
+sklearn.svm,
+sklearn.linear_model,
+sklearn.naive_bayes,
+sklearn.metrics,
+sklearn.ensemble,
+sklearn.model_selection,
+sklearn.preprocessing,
+Joblib.
 
 ### PREPROCESSING:
 ## CLEANING DATASET:
