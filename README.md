@@ -20,8 +20,8 @@ Joblib.
 
 ### PREPROCESSING:
 ## CLEANING DATASET:
-Division d'une colonne en plusieurs colonnes.
-Suppression de la premiére colonne vide.
+Division d'une colonne en plusieurs colonnes, 
+Suppression de la premiére colonne vide, 
 Suppresion des colonnes inutiles.
 
 
