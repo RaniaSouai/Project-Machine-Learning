@@ -31,7 +31,7 @@ Division de la valeur maximale de chaque colonne pour faciliter.
 ### GridSearchCV:
 Modéle de prediction.
 
-### Submition.
+### Submission.
 
 
 
