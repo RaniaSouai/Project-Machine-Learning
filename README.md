@@ -31,9 +31,9 @@ Division de la valeur maximale de chaque colonne pour faciliter.
 ### GridSearchCV:
 Modéle de prediction.
 
-### Submission.
+### SUBMISSION.
 
-### Lien de Colaboratory:
-## https://colab.research.google.com/drive/1DcFi2N0kkRdlLeUJ93_zeuwuk79QsClQ#scrollTo=KU-kWx5R30or
+### LIEN DE COLABORATORY:
+### https://colab.research.google.com/drive/1DcFi2N0kkRdlLeUJ93_zeuwuk79QsClQ#scrollTo=KU-kWx5R30or
 
 
